@@ -7,7 +7,7 @@ This project was completed as part of the 90 Days of DevOps challenge. The goal 
 The project demonstrates a complete Git workflow used in real-world software development environments.
 
 ---
-
+![Test](screenshots/01_repository_forked.png)
 ## Skills Covered
 
 * Git Repository Management
