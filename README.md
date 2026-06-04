@@ -147,7 +147,7 @@ git push
 git pull
 git log
 git show
-git branch
+git checkout -b
 git switch
 git remote
 
@@ -190,6 +190,6 @@ Through this challenge I gained practical experience with:
 
 ## Author
 
-**Sriram Kanni**
+**Sriram Ganesh**
 
 DevOps Engineer in Training | 90 Days of DevOps Participant
