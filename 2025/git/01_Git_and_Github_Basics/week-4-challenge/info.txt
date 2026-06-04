@@ -1,3 +1,13 @@
 Name: Sriram Ganesh
 
 I am learning DevOps, Linux, Git, GitHub,Jenkins,Docker,Kubernetes,Terraform,Ansible AWS and Automation through the 90 Days of DevOps challenge.
+
+Current Activities:
+- Building Linux administration projects
+- Practicing Git and GitHub workflows
+- Writing Shell scripts for automation
+- Working on AWS services and cloud fundamentals
+- Learning DevOps tools through practical implementation
+
+Current Challenge:
+Week 4 - Git & GitHub Advanced Challenge
